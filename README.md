@@ -11,8 +11,9 @@ Let’s get started.
  ### *Step 1 - Create a simple nodejs app*
 
  First I created a directory usinng visual Studio Code 
+ 
  mkdir node.js-doc-web-App
- I Cd into the directory and generated package.json file by Running npm init -y, this is a convenient way to quickly generate a basic package.json file with default values. The -y flag stands for "yes" and automatically accepts the default values for the prompts, creating a package.json file without requiring manual input.
+ I Cd into the directory and generated package.json file by Running: 'npm init -y', this is a convenient way to quickly generate a basic package.json file with default values. The -y flag stands for "yes" and automatically accepts the default values for the prompts, creating a package.json file without requiring manual input.
 
 After running npm init -y, you should have a basic package.json file in your project directory. It might look something like this:
 {
