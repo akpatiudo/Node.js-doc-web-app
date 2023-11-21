@@ -16,18 +16,29 @@ Let’s get started.
  I Cd into the directory and generated package.json file by Running: 'npm init -y', this is a convenient way to quickly generate a basic package.json file with default values. The -y flag stands for "yes" and automatically accepts the default values for the prompts, creating a package.json file without requiring manual input.
 
 After running npm init -y, you should have a basic package.json file in your project directory. It might look something like this:
+
 {
   "name": "your-project-name",
+  
   "version": "1.0.0",
+  
   "description": "",
+ 
   "main": "index.js",
+ 
   "scripts": {
+  
     "test": "echo \"Error: no test specified\" && exit 1"
+ 
   },
+ 
   "keywords": [],
+ 
   "author": "",
-  "license": "ISC"
+ 
+ "license": "ISC"
 }
+
 the template was adjusted to serve my purpose and needs
 
 ### *Step 2 Install Dependencies*
