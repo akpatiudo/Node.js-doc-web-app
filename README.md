@@ -71,7 +71,7 @@ The script for the container is in Dockerfile and the picture below shows how it
 
 ![image](https://github.com/akpatiudo/Node.js-doc-web-app/assets/118566096/d0a7052d-4290-42eb-85e6-ed7db7e080a8)
 
-the code docker ps -a was run to see how the new image build and run is doing. From the picture below, is the first with the image name bubbles/web-app:v2, created about a munite ago listed to 0.0.0.0:3000->/tcp
+the code docker ps -a was run to see how the new image build and run is doing. From the picture below, is the first with the image name bubbles/web-app:v2, created about a minute ago listed to 0.0.0.0:3000->/tcp
 
 ![image](https://github.com/akpatiudo/Node.js-doc-web-app/assets/118566096/e26b6732-73a2-4227-8a12-83b609b107d2)
 
