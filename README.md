@@ -1,4 +1,4 @@
-## Building And Dockernize Node.je Express Web App From Scretch
+# Building And Dockernize Node.je Express Web App From Scretch
 
 ![image](https://github.com/akpatiudo/Node.js-doc-web-app/assets/118566096/742f2388-54fe-4ecb-b511-79eb90bf2f8a)
 
@@ -41,7 +41,7 @@ After running npm init -y, you should have a basic package.json file in your pro
 
 the template was adjusted to serve my purpose and needs
 
-### *Step 2 Install Dependencies*
+## *Step 2 Install Dependencies*
 
 Both express and dotenv are dependencies for  package.json file
 express: A popular web application framework for Node.js.
@@ -71,7 +71,7 @@ The script for the container is in Dockerfile and the picture below shows how it
 
 ![image](https://github.com/akpatiudo/Node.js-doc-web-app/assets/118566096/d0a7052d-4290-42eb-85e6-ed7db7e080a8)
 
-the code docker ps -a was run to see are the new image build and run is doing. From the The  picture below, is the first with the image name bubbles/web-app:v2, created about a munite ago listed to 0.0.0.0:3000->/tcp
+the code docker ps -a was run to see how the new image build and run is doing. From the picture below, is the first with the image name bubbles/web-app:v2, created about a munite ago listed to 0.0.0.0:3000->/tcp
 
 ![image](https://github.com/akpatiudo/Node.js-doc-web-app/assets/118566096/e26b6732-73a2-4227-8a12-83b609b107d2)
 
@@ -82,6 +82,10 @@ the below picture showing the desktop version of the docker image runing
 putting the port listed in a browser i got same result
 
 ![image](https://github.com/akpatiudo/Node.js-doc-web-app/assets/118566096/b1c3178f-f0fc-4f91-ba6b-725e7abe60a0)
+
+## Project Summary:
+
+Dockerizing a Node.js web app for versatile deployment. Created a simple app, installed dependencies, and built a Docker image for easy containerization. Streamlining development and deployment with Docker.
 
 
 
