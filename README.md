@@ -1,4 +1,4 @@
-# Building And Dockernize Node.je Express Web App From Scretch
+# Building And Dockernize Node.je Express Web App From Scratch
 
 ![image](https://github.com/akpatiudo/Node.js-doc-web-app/assets/118566096/742f2388-54fe-4ecb-b511-79eb90bf2f8a)
 
